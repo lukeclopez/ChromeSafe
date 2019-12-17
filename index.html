@@ -56,7 +56,12 @@
           </div>
           <div>
             <form action="" method="get">
-              <button class="ghost-round full-width">Save Password</button>
+              <button
+                class="ghost-round full-width"
+                onclick="history.replaceState({success:true}, 'title', '/success.html');"
+              >
+                Save Password
+              </button>
             </form>
           </div>
         </div>
