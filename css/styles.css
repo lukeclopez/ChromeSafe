@@ -175,8 +175,9 @@ button:focus {
   height: 560px;
   width: 360px;
   background: #fff;
-  background: url("https://images.pexels.com/photos/172292/pexels-photo-172292.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=800&w=500")
+  background: url("https://images.pexels.com/photos/172292/pexels-photo-172292.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1000&w=800")
     top left no-repeat;
+  background-size: cover;
 }
 
 .overlay {
