@@ -8,11 +8,11 @@ Check the code for yourself. There is a total of one JavaScript function. If you
 
 ## How Do I Use It?
 
-## Hosted Version
+### Hosted Version
 
 [![View Tutorial on Youtube](http://img.youtube.com/vi/oAI_YE-alqU/0.jpg)](https://youtu.be/oAI_YE-alqU)
 
-## Using it Locally
+### Using it Locally
 
 There is more than one way to do it, but note that Google Chrome will not offer to save your password if you simply open the HTML file. It must be served.
 
