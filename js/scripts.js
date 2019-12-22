@@ -1,5 +1,5 @@
 const concatTitleAndUsername = () => {
-  const delimeter = "|";
+  const delimeter = " | ";
   const websiteTitle = document.getElementById("title").value;
   const username = document.getElementById("username").value;
 
